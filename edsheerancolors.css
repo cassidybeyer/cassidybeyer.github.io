@@ -1,0 +1,15 @@
+body{
+color: black;
+}
+p2{
+color: orange;
+}
+p3{
+  background-color: white
+}
+html{
+  background-image: url("ed jesus.jpg");
+  background-repeat: repeat;
+  background-attachment: scroll;
+
+}
